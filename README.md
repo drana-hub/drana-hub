@@ -20,4 +20,4 @@ A live, multilingual mindfulness & meditation web app, with a serverless backend
 ### 📫 Find me
 
 - 🌐 Live project: [mindful-engineer.in](https://mindful-engineer.in)
-<!-- LINKEDIN_PLACEHOLDER -->
+- 💼 LinkedIn: [divyansh-rana](https://www.linkedin.com/in/divyansh-rana-33b918169/)
